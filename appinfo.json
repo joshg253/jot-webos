@@ -1,0 +1,10 @@
+{
+	"id": "com.joshg.jot",
+	"version": "1.0.0",
+	"vendor": "Josh G",
+	"type": "web",
+	"main": "index.html",
+	"title": "Jot",
+	"icon": "icon.png",
+	"uiRevision": 2
+}
